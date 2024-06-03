@@ -1,0 +1,5 @@
+__pycache__/
+/.idea
+/*.srt
+/*.wav
+/bible_pray_*.json
